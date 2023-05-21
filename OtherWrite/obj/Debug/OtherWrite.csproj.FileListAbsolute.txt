@@ -1,0 +1,12 @@
+E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\bin\Debug\OtherWrite.exe.config
+E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\bin\Debug\OtherWrite.exe
+E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\bin\Debug\OtherWrite.pdb
+E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\obj\Debug\OtherWrite.csproj.AssemblyReference.cache
+E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\obj\Debug\OtherWrite.csproj.SuggestedBindingRedirects.cache
+E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\obj\Debug\OtherWrite.Form1.resources
+E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\obj\Debug\OtherWrite.Properties.Resources.resources
+E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\obj\Debug\OtherWrite.csproj.GenerateResource.cache
+E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\obj\Debug\OtherWrite.csproj.CoreCompileInputs.cache
+E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\obj\Debug\OtherWrite.exe
+E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\obj\Debug\OtherWrite.pdb
+E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\obj\Debug\OtherWrite.Form2.resources
