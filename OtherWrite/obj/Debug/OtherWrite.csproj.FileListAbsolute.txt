@@ -9,4 +9,13 @@ E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite
 E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\obj\Debug\OtherWrite.csproj.CoreCompileInputs.cache
 E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\obj\Debug\OtherWrite.exe
 E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\obj\Debug\OtherWrite.pdb
-E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\obj\Debug\OtherWrite.Form2.resources
+E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\obj\Debug\OtherWrite.csproj.ResolveComReference.cache
+E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\bin\Debug\Spire.Doc.dll
+E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\bin\Debug\Spire.License.dll
+E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\bin\Debug\Spire.Pdf.dll
+E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\bin\Debug\Microsoft.mshtml.dll
+E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\bin\Debug\Spire.Doc.xml
+E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\bin\Debug\Spire.License.xml
+E:\Users\Usuario\Documents\Scanned Documents\zProyectos VS\OtherWrite\OtherWrite\obj\Debug\OtherWrite.csproj.CopyComplete
